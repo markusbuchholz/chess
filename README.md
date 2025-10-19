@@ -32,7 +32,7 @@ Open ```mini_chees.py``` the file and edit:
 Note : LLM is bad chess player
 
 ```bash
-python ai_chess.py
+python3 ai_chess.py
 ```
 
 
