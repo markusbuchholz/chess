@@ -29,10 +29,12 @@ Open ```mini_chees.py``` the file and edit:
 
 ## Run using the LLM
 
-Note : LLM is bad chess player
+Note : LLM is a bad chess player
 
 ```bash
-python ai_chess.py
+python3 ai_chess.py
 ```
+
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/5ad5d182-2b0f-43d9-81f0-606e7e29cd17" />
 
 
