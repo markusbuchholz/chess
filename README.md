@@ -13,7 +13,8 @@ Install:
 pip3 install python-chess
 ```
 
-## Run
+## Run using the ``àlpha-beta```
+
 ```bash
 python mini_chess.py
 ```
@@ -25,5 +26,13 @@ Open ```mini_chees.py``` the file and edit:
 - ENGINE_DEPTH = 3       # 2–5 (higher = stronger/slower)
 - HUMAN_IS_WHITE = True  # False to let engine start
 
+
+## Run using the LLM
+
+Note : LLM is bad chess player
+
+```bash
+python ai_chess.py
+```
 
 
