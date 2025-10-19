@@ -10,7 +10,7 @@ No terminal play. No extra GUI libs.
 
 Install:
 ```bash
-pip3 install python-chess)
+pip3 install python-chess
 ```
 
 ## Run
