@@ -1,6 +1,5 @@
-# chess_gui_alpha_beta.py
-# GUI chess vs a simple alpha-beta engine using Tkinter + python-chess.
-# No extra GUI libs needed; just Python's standard library and python-chess.
+# mini_chess.py
+
 import math
 import threading
 import time
